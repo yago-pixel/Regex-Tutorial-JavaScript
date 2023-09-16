@@ -15,10 +15,7 @@ In this Regex Tutorial, you will learn how to validate the featured email addres
 - [Built With](#Built-With)
 - [What I Learned](#What-I-Learned)
 - [Continued Development](#Continued-Development)
-- [License](#License)
-- [Author](#Author)
-- [Acknowledgments](#Acknowledgments)
-
+- 
 # Overview
 
 ## The Challenge
