@@ -117,7 +117,7 @@ By completing this challenge, you will not only have a better understanding of t
   
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [Open Source Initiative Link](https://opensource.org/licenses/MIT)
 
-### Copyright © 2023 (https://github.com/yago-pixel)
+### Copyright © 2023 [Yago Lira](https://github.com/yago-pixel)
 ```md
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
