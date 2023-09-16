@@ -1,3 +1,5 @@
+# Chapter 01: Matching an Email
+
 Welcome to this comprehensive tutorial on matching email regular expressions (regex) using JavaScript in the field of Computer Science. Upon completing the tutorial, both newcomers and academics alike will have a clear comprehension and understanding of regex components, achieved through detailed explanations and example analysis. In this tutorial, we will delve into email regex, breaking down the components of a regex pattern designed to validate email addresses and explaining how each part contributes to ensuring accurate and reliable email validation.
 
 <br>
@@ -213,11 +215,6 @@ By combining these components, the regex ensures proper structure and formality 
 ## Author
 
 Follow me on Github at [Yago Lira](https://github.com/yago-pixel). Additional questions or concerns? feel free to contact me.
-
-Until next, see you on the otherside!
-
-**Deployed GitHub-Gist Link:**
-[Deployed GitHub-Gist Link: Click Here](https://github.com/yago-pixel/Regex-Tutorial-JavaScript/edit/main/Tutorial/Chapter-01-Matching-an-Email.md)
 
 **GitHub Repository:**
 [GitHub Repository: Click Here]()
