@@ -72,7 +72,7 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 
 
 ## GitHub Repository:
-[GitHub Repository: Click Here](https://gist.github.com/yago-pixel/ea3b26a8653f434d44b5613b1398252b)**
+[GitHub Repository: Click Here](https://gist.github.com/yago-pixel/ea3b26a8653f434d44b5613b1398252b)
 ## Installation Process:
 **Set up a GitHub Gist:**
 
